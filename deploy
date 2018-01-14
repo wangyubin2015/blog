@@ -1,4 +1,5 @@
-exo g
+hexo clean
+hexo g
 git add -A
 git commit -m “update-blog-source”
 git push origin master
