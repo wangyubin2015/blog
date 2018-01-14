@@ -5,7 +5,7 @@ favicon: /img/avatar.jpg
 #链接图标，链接为空则不显示
 link:
   rss:
-  github: https://github.com/steinswang
+  github: https://github.com/wangyubin2015
   facebook:
   twitter:
   linkedin:
@@ -47,7 +47,7 @@ menu:
 # 文末声明
 article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 450603622@qq.com
 
-bottom_text: ©2017 steinswang
+bottom_text: ©2017 wangyubin2015
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
@@ -174,11 +174,11 @@ gentie:
   # 网易云跟帖暂时不支持查询评论数，所以启用时，把评论数关掉，上方comment_count: false。
 
 gitalk:
-  githubID: steinswang
-  repo: steinswang.github.io
-  ClientID: 7f49ede663f9b7db52c0
-  ClientSecret: 9eccb82327929c30e5d0242c0a473dd49bf6a3e4
-  adminUser: steinswang
+  githubID: wangyubin2015
+  repo: wangyubin2015.github.io
+  ClientID: 0003ef1ecc820dff7687
+  ClientSecret: 1ff73487db0db318b84953cc8498b82bed222fbc
+  adminUser: wangyubin2015
   distractionFreeMode: true
   language: zh-CN
   perPage: 10
